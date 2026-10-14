@@ -49,3 +49,7 @@ This repository shares the game documentation and a downloadable Windows build. 
 HandRacer 是一款 Unity 赛车游戏，支持键盘和 Leap Motion 手势操控。你可以与电脑对战，也可以让一位玩家使用键盘、另一位玩家使用手势进行双人比赛。赛道包含加速区域和道具箱。
 
 从[最新版本](../../releases/latest)下载 Windows ZIP，**完整解压**后运行 `HandRacer.exe`。使用手势前，请连接 Leap Motion 设备并安装所需的追踪软件，再用 `-leap` 参数启动游戏。键盘操作为 `W` 加速、`S` 刹车或倒车、`A/D` 转向、空格键拾取或使用道具。手势操作为左手下压加速、左手左右旋转转向、右手前推使用道具；建议双手位于传感器上方约 25–60 厘米。
+
+## Poster
+
+![HandRacer poster](HandRacer_Poster.jpg)
